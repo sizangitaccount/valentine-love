@@ -11,7 +11,7 @@ def lovecurve(t):
 
 screen=turtle.Screen()
 
-screen.title("Valentine's Day Special Love Art")
+screen.title("Valentine's Day red Love Art")
 screen.bgcolor("black")
 obj.pensize(2)
 obj.pencolor("red")
